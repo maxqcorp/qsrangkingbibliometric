@@ -1,0 +1,10 @@
+# Manuscripts / documents — not pushed (per request)
+*.docx
+*.doc
+*.pdf
+
+# OS / Python cruft
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

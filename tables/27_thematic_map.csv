@@ -1,0 +1,5 @@
+cluster,label,size,sum_freq,centrality,density
+1,"deep learning, remote sensing, convolutional neural network",68,3185,39.81,35.28
+3,"disaster management, artificial intelligence, natural disaster",58,2557,44.66,21.53
+2,"machine learning, random forest, landslide",60,2454,35.4,15.33
+4,"flood, earthquake, disaster",16,681,83.94,14.31

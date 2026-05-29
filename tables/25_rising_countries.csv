@@ -1,0 +1,16 @@
+country,iso3,n_pubs,recent_pubs,recent_share_pct
+China,CHN,1265,932,73.7
+India,IND,863,688,79.7
+USA,USA,782,463,59.2
+United Kingdom,GBR,216,124,57.4
+Japan,JPN,207,110,53.1
+Italy,ITA,135,86,63.7
+South Korea,KOR,140,86,61.4
+Germany,DEU,111,67,60.4
+Indonesia,IDN,86,61,70.9
+Canada,CAN,90,61,67.8
+Australia,AUS,104,56,53.8
+Saudi Arabia,SAU,75,54,72.0
+Iran,IRN,94,51,54.3
+Malaysia,MYS,91,50,54.9
+Taiwan,TWN,69,44,63.8

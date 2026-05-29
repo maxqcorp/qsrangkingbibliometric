@@ -1,0 +1,158 @@
+year,keyword,n
+2015,landslide,5
+2015,remote sensing,3
+2015,machine learning,4
+2015,random forest,1
+2015,disaster management,5
+2015,flood,2
+2015,social media,2
+2015,disaster,2
+2015,emergency response,1
+2015,artificial intelligence,1
+2015,natural disaster,1
+2016,machine learning,7
+2016,random forest,3
+2016,disaster response,3
+2016,remote sensing,3
+2016,disaster management,6
+2016,social media,5
+2016,artificial intelligence,1
+2016,landslide,1
+2016,emergency response,1
+2016,earthquake,2
+2016,natural disaster,1
+2016,flood,1
+2017,remote sensing,7
+2017,natural disaster,5
+2017,landslide,2
+2017,deep learning,1
+2017,emergency response,2
+2017,social media,3
+2017,random forest,3
+2017,machine learning,7
+2017,disaster management,14
+2017,earthquake,3
+2017,disaster response,2
+2017,flood,2
+2017,artificial intelligence,3
+2017,disaster,2
+2017,convolutional neural network,1
+2018,disaster management,18
+2018,social media,7
+2018,machine learning,13
+2018,convolutional neural network,5
+2018,remote sensing,3
+2018,random forest,5
+2018,natural disaster,8
+2018,earthquake,3
+2018,deep learning,6
+2018,emergency response,3
+2018,artificial intelligence,2
+2018,disaster response,1
+2018,flood,1
+2018,disaster,1
+2019,machine learning,22
+2019,deep learning,23
+2019,artificial intelligence,6
+2019,remote sensing,10
+2019,convolutional neural network,12
+2019,social media,11
+2019,disaster response,9
+2019,earthquake,5
+2019,random forest,2
+2019,emergency response,4
+2019,disaster management,19
+2019,flood,3
+2019,disaster,4
+2019,landslide,5
+2019,natural disaster,5
+2020,flood,6
+2020,machine learning,36
+2020,disaster management,28
+2020,artificial intelligence,17
+2020,landslide,6
+2020,deep learning,39
+2020,earthquake,14
+2020,random forest,10
+2020,natural disaster,12
+2020,remote sensing,18
+2020,convolutional neural network,16
+2020,disaster response,10
+2020,social media,11
+2020,disaster,7
+2020,emergency response,2
+2021,disaster response,10
+2021,deep learning,46
+2021,remote sensing,16
+2021,artificial intelligence,12
+2021,machine learning,54
+2021,disaster management,36
+2021,convolutional neural network,10
+2021,disaster,6
+2021,earthquake,17
+2021,flood,9
+2021,landslide,6
+2021,random forest,16
+2021,social media,15
+2021,natural disaster,7
+2021,emergency response,7
+2022,machine learning,74
+2022,disaster management,43
+2022,deep learning,65
+2022,natural disaster,15
+2022,remote sensing,35
+2022,convolutional neural network,25
+2022,disaster,9
+2022,social media,13
+2022,disaster response,7
+2022,earthquake,14
+2022,artificial intelligence,19
+2022,landslide,15
+2022,flood,16
+2022,emergency response,8
+2022,random forest,15
+2023,convolutional neural network,17
+2023,emergency response,17
+2023,disaster management,55
+2023,natural disaster,17
+2023,flood,14
+2023,earthquake,13
+2023,artificial intelligence,21
+2023,machine learning,63
+2023,remote sensing,44
+2023,deep learning,84
+2023,disaster response,12
+2023,disaster,9
+2023,landslide,18
+2023,social media,22
+2023,random forest,22
+2024,remote sensing,60
+2024,artificial intelligence,57
+2024,natural disaster,33
+2024,disaster response,28
+2024,machine learning,170
+2024,deep learning,158
+2024,convolutional neural network,30
+2024,flood,34
+2024,earthquake,24
+2024,random forest,34
+2024,social media,14
+2024,disaster management,85
+2024,landslide,29
+2024,emergency response,18
+2024,disaster,26
+2025,machine learning,299
+2025,disaster management,167
+2025,remote sensing,121
+2025,deep learning,308
+2025,disaster response,46
+2025,landslide,35
+2025,convolutional neural network,43
+2025,natural disaster,48
+2025,artificial intelligence,122
+2025,earthquake,32
+2025,social media,27
+2025,random forest,49
+2025,flood,51
+2025,emergency response,40
+2025,disaster,51

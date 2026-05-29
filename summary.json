@@ -1,0 +1,38 @@
+{
+  "annual": {
+    "year_range": [
+      2015,
+      2025
+    ],
+    "total_records": 4261,
+    "cagr_pubs_pct": 41.34,
+    "peak_year": 2025,
+    "peak_year_pubs": 1495
+  },
+  "bradford_core_n_sources": 79,
+  "unique_authors": 13889,
+  "impact": {
+    "n_records": 4261,
+    "total_citations": 62740,
+    "mean_citations_per_paper": 14.72,
+    "median_citations_per_paper": 4.0,
+    "max_citations": 468,
+    "cited_papers_pct": 74.25,
+    "uncited_papers_pct": 25.75,
+    "h_index": 103,
+    "g_index": 153
+  },
+  "collaboration": {
+    "mean_authors_per_paper": 4.4,
+    "median_authors_per_paper": 4.0,
+    "max_authors_per_paper": 44,
+    "single_authored_papers": 147,
+    "single_authored_share_pct": 3.45,
+    "co_authored_papers": 4072,
+    "collaboration_index": 4.57
+  },
+  "sources_unique": 1992,
+  "affils_unique": 6913,
+  "keywords_unique_author": 9239,
+  "keywords_unique_index": 11192
+}

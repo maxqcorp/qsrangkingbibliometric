@@ -1,0 +1,71 @@
+country,n_pubs,total_citations,iso3,mean_citations
+China,1265,20576,CHN,16.27
+India,863,7192,IND,8.33
+USA,782,15959,USA,20.41
+United Kingdom,216,5313,GBR,24.6
+Japan,207,2755,JPN,13.31
+South Korea,140,4261,KOR,30.44
+Italy,135,2095,ITA,15.52
+Germany,111,2675,DEU,24.1
+Australia,104,3291,AUS,31.64
+Iran,94,3415,IRN,36.33
+Malaysia,91,2286,MYS,25.12
+Canada,90,1795,CAN,19.94
+Indonesia,86,618,IDN,7.19
+Saudi Arabia,75,1286,SAU,17.15
+Taiwan,69,995,TWN,14.42
+Pakistan,67,955,PAK,14.25
+Turkey,63,1010,TUR,16.03
+Greece,56,984,GRC,17.57
+Bangladesh,53,1441,BGD,27.19
+Spain,49,1647,ESP,33.61
+Vietnam,48,2665,VNM,55.52
+Egypt,48,1004,EGY,20.92
+France,46,1121,FRA,24.37
+Netherlands,41,1278,NLD,31.17
+UAE,40,357,ARE,8.93
+Austria,29,760,AUT,26.21
+Qatar,29,928,QAT,32.0
+Sweden,28,980,SWE,35.0
+Switzerland,25,712,CHE,28.48
+Brazil,24,540,BRA,22.5
+Thailand,24,350,THA,14.58
+Iraq,24,327,IRQ,13.62
+Norway,23,645,NOR,28.04
+Tunisia,23,190,TUN,8.26
+Philippines,22,121,PHL,5.5
+Singapore,20,403,SGP,20.15
+Portugal,19,661,PRT,34.79
+Belgium,18,157,BEL,8.72
+Morocco,18,99,MAR,5.5
+Poland,18,318,POL,17.67
+Sri Lanka,18,85,LKA,4.72
+Mexico,17,361,MEX,21.24
+Nigeria,17,214,NGA,12.59
+New Zealand,16,152,NZL,9.5
+Oman,15,80,OMN,5.33
+Nepal,15,250,NPL,16.67
+Chile,14,506,CHL,36.14
+Peru,13,139,PER,10.69
+South Africa,13,93,ZAF,7.15
+Hong Kong,12,284,HKG,23.67
+Russia,12,192,RUS,16.0
+Colombia,12,71,COL,5.92
+Romania,11,424,ROU,38.55
+Hungary,10,172,HUN,17.2
+Ireland,10,118,IRL,11.8
+Finland,9,186,FIN,20.67
+Jordan,9,186,JOR,20.67
+Ukraine,9,66,UKR,7.33
+Luxembourg,8,228,LUX,28.5
+Slovakia,7,34,SVK,4.86
+Bulgaria,7,39,BGR,5.57
+Denmark,6,86,DNK,14.33
+Kazakhstan,5,38,KAZ,7.6
+Ecuador,5,34,ECU,6.8
+Israel,3,10,ISR,3.33
+Croatia,3,109,HRV,36.33
+Serbia,3,8,SRB,2.67
+Argentina,3,105,ARG,35.0
+Iceland,1,3,ISL,3.0
+Kenya,1,2,KEN,2.0

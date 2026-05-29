@@ -1,0 +1,31 @@
+reference_key,local_citations,reference
+breiman|randofores|2001,289,"Breiman L., Random Forests, Mach. Learn., 45, 1, pp. 5-32, (2001)"
+ronneberger|netconvonetwofor|2015,242,"Ronneberger O.; Fischer P.; Brox T., U-net: Convolutional networks for biomedical image se"
+he|deepresidlearnfor|2016,219,"He K., Deep residual learning for image recognition, 2016 IEEE conference on computer visi"
+lecun|deeplearn|2015,117,"LeCun Y.; Bengio Y.; Hinton G., Deep learning, Nature, 521, 7553, pp. 436-444, (2015)"
+krizhevsky|imageclasswithdeep|2012,110,"Krizhevsky Alex; Sutskever Ilya; Hinton Geoffrey E., Imagenet classification with deep con"
+hochreiter|longshorttermmemor|1997,104,"Hochreiter S.; Schmidhuber J., Long Short-Term Memory, Neural Computation, 9, 8, pp. 1735-"
+chen|xgbooscalatreeboost|2016,100,"Chen T.; Guestrin C., XGBoost: a scalable tree boosting system, Proceedings of the 22nd AC"
+simonyan|verydeepconvonetwo|2014,95,"Simonyan K.; Zisserman A., Very Deep Convolutional Networks for Large-Scale Image Recognit"
+vaswani|attenallyouneed|2017,89,Vaswani Ashish; Shazeer Noam; Parmar Niki; Uszkoreit Jakob; Jones Llion; Gomez Aidan N.; K
+mosavi|floodprediusingmachi|2018,85,"Mosavi A.; Ozturk P.; Chau K.W., Flood prediction using machine learning models: literatur"
+pedregosa|scikilearnmachilearn|2011,78,"Pedregosa F.; Varoquaux G.; Gramfort A., Scikit-Learn: Machine Learning in Python, Journal"
+reichenbach|reviestatibasedlands|2018,78,"Reichenbach P.; Rossi M.; Malamud B.D.; Mihir M.; Guzzetti F., A review of statistically-b"
+kingma|adammethoforstoch|2014,77,"Kingma D.P.; Ba J., Adam: A Method for Stochastic Optimization, (2014)"
+sun|appliartifintelfor|2020,76,"Sun W.; Bocchini P.; Davison B.D., Applications of artificial intelligence for disaster ma"
+long|fullyconvonetwofor|2015,74,"Long J.; Shelhamer E.; Darrell T., Fully convolutional networks for semantic segmentation,"
+gupta|xbddatasforasses|2019,72,Gupta R.; Hosfelt R.; Sajeev S.; Patel N.; Goodman B.; Doshi J.; Heim E.; Choset H.; Gasto
+merghadi|machilearnmethofor|2020,71,Merghadi A.; Yunus A.P.; Dou J.; Whiteley J.; ThaiPham B.; Bui D.T.; Avtar R.; Abderrahman
+ghorbanzadeh|evaludiffemachilearn|2019,70,"Ghorbanzadeh O.; Blaschke T.; Gholamnia K.; Meena S.R.; Tiede D.; Aryal J., Evaluation of "
+chen|encoddecodwithatrou|2018,70,"Chen L.-C.; Zhu Y.; Papandreou G.; Schroff F.; Adam H., Encoder-decoder with atrous separa"
+linardos|machilearndisasmanag|2022,69,"Linardos V.; Drakaki M.; Tzionas P.; Karnavas Y.L., Machine learning in disaster managemen"
+friedman|greedfunctapprogradi|2001,68,"Friedman J.H., Greedy function approximation: a gradient boosting machine, Ann. Stat., 29,"
+ji|landsdetecfromopen|2020,67,"JI S P; YU D W; SHEN C Y, Landslide detection from an open satellite imagery and digital e"
+gupta|creatxbddatasfor|2019,63,Gupta R.; Goodman B.; Patel N.; Hosfelt R.; Sajeev S.; Heim E.; Doshi J.; Lucas K.; Choset
+dong|comprrevieearthinduc|2013,62,"Dong L.; Shan J., A Comprehensive Review of Earthquake-Induced Building Damage Detection W"
+deng|imagelargescalehiera|2009,62,"Deng J.; Dong W.; Socher R.; Li L.-J.; Li K.; Fei-Fei L., ImageNet: A large-scale hierarch"
+(2020)||2020,60,(2020)
+froude|globafatallandsoccur|2018,59,"Froude M. J.; Petley D. N., Global fatal landslide occurrence from 2004 to 2016, Natural H"
+rahnemoonfar|floodhighresolaeria|2021,58,"Rahnemoonfar M.; Chowdhury T.; Sarkar A.; Varshney D.; Yari M.; Roberson Murphy R., Floodn"
+cortes|suppovectonetwo|1995,58,"Cortes C.; Vapnik V., Support-vector networks, Mach. Learn., 20, pp. 273-297, (1995)"
+tan|efficrethimodelscali|2019,57,"Tan M.; Le Q., EfficientNet: Rethinking model scaling for convolutional neural networks, P"
