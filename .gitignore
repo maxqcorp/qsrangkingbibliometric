@@ -3,6 +3,15 @@
 *.doc
 *.pdf
 
+# Codes that produce the scientific article and the PRISMA diagram — not pushed (per request)
+04_report.py
+make_prisma.py
+
+# Article-related templates and redundant archives — not pushed
+*.dot
+*.dotx
+*.zip
+
 # OS / Python cruft
 .DS_Store
 __pycache__/
