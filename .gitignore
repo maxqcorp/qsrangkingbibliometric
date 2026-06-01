@@ -3,11 +3,13 @@
 *.doc
 *.pdf
 
-# Codes that produce the scientific article and the PRISMA diagram — not pushed (per request)
-04_report.py
-make_prisma.py
+# Code and intermediate data — not pushed (per request)
+# Repo holds only the published outputs: supplementary file(s), figures/, tables/.
+*.py
+harmonized.*
+summary.json
 
-# Article-related templates and redundant archives — not pushed
+# Article templates and redundant archives — not pushed
 *.dot
 *.dotx
 *.zip
